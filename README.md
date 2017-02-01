@@ -1,2 +1,4 @@
 # yarn-link-issue
-to demonstrate yarn link issue for unpublished package
+
+run `./run.sh` to reproduce.
+
